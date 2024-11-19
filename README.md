@@ -54,10 +54,10 @@ O projeto explora a programação orientada a objetos e a utilização do Java, 
 ## 📂 Projetos em Java
 <p>Este repositório contém os seguintes projetos implementados em <b>Prolog</b></p>
 <a href="https://github.com/OrientacaoAObjetosUDFN1/Bomberman-java"> 
-<li>Hangman-Java</li>
+<li>Bomberman-Java</li>
 </a>
 <a href="https://github.com/OrientacaoAObjetosUDFN1/Hangman-Java">
-<li>Bomberman-Java</li>	
+<li>Hangman-Java</li>	
 </a>
 
 ## 💻 Tecnologias Utilizadas no Projeto
