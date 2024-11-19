@@ -51,6 +51,15 @@ Link da Página e Repositório respectivamente.
 ## 🚀 Sobre o Projeto
 O projeto explora a programação orientada a objetos e a utilização do Java, uma linguagem voltada para as mais variadas finalidades como Front-End(web, mobile, desktop), Back-End, sistemas embarcados entre outros. A interface web é desenvolvida com **NextJs**, garantindo uma apresentação moderna e interativa, com exemplos e explicações detalhadas dos principais conceitos.
 
+## 📂 Projetos em Prolog
+<p>Este repositório contém os seguintes projetos implementados em <b>Prolog</b></p>
+<a href="https://github.com/OrientacaoAObjetosUDFN1/Bomberman-java"> 
+<li>Hangman-Java</li>
+</a>
+<a href="https://github.com/OrientacaoAObjetosUDFN1/Hangman-Java">
+<li>Bomberman-Java</li>	
+</a>
+
 ## 💻 Tecnologias Utilizadas no Projeto
 - <img src="https://skillicons.dev/icons?i=react" width="30"> React
 - <img src="https://skillicons.dev/icons?i=next" width="30"> Next
