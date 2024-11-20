@@ -52,7 +52,7 @@ Link da Página e Repositório respectivamente.
 O projeto explora a programação orientada a objetos e a utilização do Java, uma linguagem voltada para as mais variadas finalidades como Front-End(web, mobile, desktop), Back-End, sistemas embarcados entre outros. A interface web é desenvolvida com **NextJs**, garantindo uma apresentação moderna e interativa, com exemplos e explicações detalhadas dos principais conceitos.
 
 ## 📂 Projetos em Java
-<p>Este repositório contém os seguintes projetos implementados em <b>Prolog</b></p>
+<p>Este repositório contém os seguintes projetos implementados em <b>Java</b></p>
 <a href="https://github.com/OrientacaoAObjetosUDFN1/Bomberman-java"> 
 <li>Bomberman-Java</li>
 </a>
